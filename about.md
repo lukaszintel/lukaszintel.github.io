@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-Blog: [www.lukaszintel.me] (http://www.lukaszintel.me)
+Blog: http://www.lukaszintel.me
 
 ### Contact me
 
