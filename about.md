@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Blog: [www.lukaszintel.me] (http://www.lukaszintel.me)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hallo@lukaszintel.me](mailto:hallo@lukaszintel.me)
